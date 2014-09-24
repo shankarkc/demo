@@ -7,6 +7,7 @@ public class Math2 {
 		int sum = 0;
 		for(int i=1; i<=b; i++)
 		{
+			// add multiple times to simulate multiplication
 			sum += a;
 		}
 		return sum;
