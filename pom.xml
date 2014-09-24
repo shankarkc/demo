@@ -73,7 +73,7 @@
 					<!-- <historyThreshold>40%</historyThreshold> -->
 					<!-- <targetPercentage>75%</targetPercentage> -->
 					<debug>false</debug>
-					<failOnViolation>true</failOnViolation>
+					<failOnViolation>false</failOnViolation>
 					<historyDir>${project.build.directory}</historyDir>
 				</configuration>
 			</plugin>

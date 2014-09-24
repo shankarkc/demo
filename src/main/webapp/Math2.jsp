@@ -9,7 +9,7 @@
 <body>
 
 
- <h2>Yey  <%=  com.ariba.demo.App.now() %></h2>
+ <h2>Yey current time is  <%=  com.ariba.demo.App.now() %></h2>
 
 </body>
 </html>
