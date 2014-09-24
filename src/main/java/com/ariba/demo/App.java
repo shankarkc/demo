@@ -15,7 +15,7 @@ public class App
                int hour = now.get(Calendar.HOUR_OF_DAY);
              
                String greeting = ". Now it is time to say ";
-             // display greeting
+            
                              if (hour < 12)
                             greeting += " Good morning.";
                              else if (hour < 17)
