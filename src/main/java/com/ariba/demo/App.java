@@ -9,7 +9,7 @@ public class App
 {
        public static String now()
        {
-    	   // using this you can get the time string
+    	   // using this you can get the time string.
            return new java.util.Date().toString(); 
        }
 }
